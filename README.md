@@ -39,7 +39,7 @@ My work combines structured planning, modular architecture, and hands‑on probl
 ## 📌 Featured Projects
 
 ### 🔹 **Smart Task Manager**
-Python backend + C# desktop integrations  
+Python backend + FastAPI + GenAI + JavaScript 
 Workflow automation, modular architecture, API‑driven design
 
 ### 🔹 **Web3 Transaction Guide**
